@@ -1,0 +1,63 @@
+# Created by .ignore support plugin (hsz.mobi)
+# SCM folders
+.svn
+# git
+.git
+*.orig
+# maven
+.mvn
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+#Intellij idea
+.idea/
+/idea/
+application.pid
+*.ipr
+*.iml
+*.iws
+
+# java build folders
+bin/
+*.classes
+target/
+build/
+WEB-INF/lib
+WEB-INF/classes
+
+# node.js modules
+node_modules
+package-lock.json
+
+# temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.swp
+tmp/
+temp/
+log/
+logs/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.rar
+
+# system ignore
+.DS_Store
+Thumbs.db
+Desktop.ini
